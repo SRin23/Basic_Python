@@ -1,2 +1,2 @@
 language = "python3"
-run="python if.py"
+run="python function.py"
