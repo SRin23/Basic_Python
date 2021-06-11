@@ -4,6 +4,8 @@
 #반드시 따옴표의 짝이 맞아야한다.
 #powershell에서 무한루프를 만나면 exit()하면 빠져나옴
 
+print('Hello World')
+
 print('Hello, world')
 print('Hello, world')
 print('Hello, world')
