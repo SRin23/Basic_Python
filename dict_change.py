@@ -14,6 +14,6 @@ dict['one'] = 11
 
 #딕셔너리 추가
 dict['three'] =  3
-del(dict['one'])
 
 #딕셔너리 삭제
+del(dict['one'])
